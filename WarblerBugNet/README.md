@@ -51,8 +51,7 @@ This bug net is manufactured to our design specifications in China.
 We are working on a USA-made version of this net, but have not yet been able to produce it in a cost effective way.
 
 ## Usage
-Please follow the online manual found in our knowledgebase:
-https://help.hummingbirdhammocks.com/hc/1694808310/34/bug-net-manual?category_id=10
+[Bug Net Manual](../Manual/README.md)
 
 ## Care Instructions
 Please follow the care instructions found in our knowledgebase:
